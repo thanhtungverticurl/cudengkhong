@@ -1,8 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/cudengkhong/:/",
+    "/content/cudengkhong/configuration:/.helix/config.json",
+    "/content/cudengkhong/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/cudengkhong/"
   ]
 }
